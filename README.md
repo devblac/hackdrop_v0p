@@ -11,7 +11,7 @@
 
 **The most transparent community-driven prediction platform on Algorand blockchain**
 
-[🚀 Live Demo](https://hackpot-algorand.vercel.app) • [📖 Documentation](#documentation) • [🤝 Contributing](#contributing) • [💬 Community](#community)
+[🚀 Live Demo](https://hackpot.xyz) • [📖 Documentation](#documentation) • [🤝 Contributing](#contributing) • [💬 Community](#community)
 
 </div>
 
