@@ -130,8 +130,7 @@ Security updates will be communicated through:
 
 For any security-related questions or concerns, please contact us at:
 
-- **Email**: security@hackpot.dev
-- **Discord**: [HackPot Security Channel](https://discord.gg/hackpot)
+- **Email**: info@hackpot.xyz
 
 ---
 
