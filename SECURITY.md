@@ -17,7 +17,7 @@ The HackPot team takes security seriously. We appreciate your efforts to respons
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to: **security@hackpot.dev**
+Instead, please report them via email to: **info@hackpot.xyz**
 
 You should receive a response within 48 hours. If for some reason you do not, please follow up via email to ensure we received your original message.
 
