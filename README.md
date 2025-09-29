@@ -15,6 +15,24 @@
 
 </div>
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🏠 Homepage & Dashboard
+![HackPot Homepage](./docs/images/homepage-screenshot.png)
+*Modern, intuitive interface with real-time prediction updates*
+
+### 🎮 Prediction Interface
+![Prediction Interface](./docs/images/prediction-interface.png)
+*Interactive prediction creation and management*
+
+### 📊 Analytics Dashboard
+![Analytics Dashboard](./docs/images/analytics-dashboard.png)
+*Comprehensive analytics and performance tracking*
+
+</div>
+
 ## ✨ Overview
 
 HackPot is a revolutionary prediction platform that brings transparency and community-driven decision making to the world of predictions. Built on the Algorand blockchain, it ensures fairness, transparency, and decentralization while providing an engaging user experience.
@@ -31,15 +49,44 @@ HackPot is a revolutionary prediction platform that brings transparency and comm
 
 ### 🛠️ Technology Stack
 
-- **Frontend**: React 19, TypeScript, Vite
-- **Styling**: TailwindCSS, Framer Motion
-- **Blockchain**: Algorand SDK, AlgoKit Utils
-- **Wallet Integration**: TxnLab Use Wallet
-- **Backend**: Supabase (Database, Auth, Real-time)
-- **State Management**: Zustand
-- **Routing**: React Router DOM
-- **Charts**: Recharts
-- **Icons**: Lucide React
+<table>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>React 19, TypeScript, Vite</td>
+</tr>
+<tr>
+<td><strong>Styling</strong></td>
+<td>TailwindCSS, Framer Motion</td>
+</tr>
+<tr>
+<td><strong>Blockchain</strong></td>
+<td>Algorand SDK, AlgoKit Utils</td>
+</tr>
+<tr>
+<td><strong>Wallet Integration</strong></td>
+<td>TxnLab Use Wallet</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>Supabase (Database, Auth, Real-time)</td>
+</tr>
+<tr>
+<td><strong>State Management</strong></td>
+<td>Zustand</td>
+</tr>
+<tr>
+<td><strong>Routing</strong></td>
+<td>React Router DOM</td>
+</tr>
+<tr>
+<td><strong>Charts</strong></td>
+<td>Recharts</td>
+</tr>
+<tr>
+<td><strong>Icons</strong></td>
+<td>Lucide React</td>
+</tr>
+</table>
 
 ## 🚀 Quick Start
 
@@ -53,8 +100,8 @@ HackPot is a revolutionary prediction platform that brings transparency and comm
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hackpot-algorand-dapp.git
-   cd hackpot-algorand-dapp
+   git clone https://github.com/devblac/hackdrop_v0p.git
+   cd hackdrop_v0p
    ```
 
 2. **Install dependencies**
@@ -176,6 +223,25 @@ pnpm test:watch
 pnpm test:coverage
 ```
 
+## 🌟 What Makes HackPot Special?
+
+### 🔗 Blockchain Integration
+- **Algorand-powered**: Lightning-fast transactions with minimal fees
+- **Smart Contracts**: Transparent and immutable prediction logic
+- **Decentralized**: No single point of failure or control
+
+### 🎯 User Experience
+- **Intuitive Design**: Clean, modern interface that's easy to navigate
+- **Real-time Updates**: Live prediction status and community activity
+- **Mobile Responsive**: Perfect experience across all devices
+- **Dark/Light Mode**: Customizable theme preferences
+
+### 🏆 Gamification
+- **Achievement System**: Unlock badges for prediction accuracy and participation
+- **Leaderboards**: Compete with the community for top positions
+- **Streak Rewards**: Bonus rewards for consistent accurate predictions
+- **Social Features**: Share achievements and invite friends
+
 ## 🚀 Deployment
 
 ### Vercel (Recommended)
@@ -194,6 +260,20 @@ pnpm build
 
 # Deploy the dist/ folder to your hosting provider
 ```
+
+## 🗺️ Roadmap
+
+- [x] Core prediction functionality
+- [x] Wallet integration (Pera, Defly, Lute, Exodus)
+- [x] Achievement system
+- [x] Referral program
+- [ ] Mobile app (iOS/Android)
+- [ ] Advanced analytics dashboard
+- [ ] Multi-language support
+- [ ] API for third-party integrations
+- [ ] NFT rewards for top predictors
+
+See our detailed [ROADMAP.md](ROADMAP.md) for more information.
 
 ## 🤝 Contributing
 
@@ -235,10 +315,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Bolt.new](https://bolt.new) for the development platform
 - All our contributors and community members
 
+## � SProject Stats
+
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/devblac/hackdrop_v0p?style=social)
+![GitHub forks](https://img.shields.io/github/forks/devblac/hackdrop_v0p?style=social)
+![GitHub issues](https://img.shields.io/github/issues/devblac/hackdrop_v0p)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/devblac/hackdrop_v0p)
+
+</div>
+
 ## 📞 Support & Community
 
+- **Website**: [hackpot.xyz](https://hackpot.xyz)
 - **Email**: info@hackpot.xyz
 - **Issues**: [GitHub Issues](https://github.com/devblac/hackdrop_v0p/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/devblac/hackdrop_v0p/discussions)
 
 ---
 
