@@ -246,8 +246,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ by the HackPot Team**
+**Built with ❤️ by the Julian as HackPot Team**
 
-[⭐ Star us on GitHub](https://github.com/yourusername/hackpot-algorand-dapp) • [🐦 Follow on Twitter](https://twitter.com/hackpotalgorand) • [💬 Join Discord](https://discord.gg/hackpot)
+[⭐ Star us on GitHub](https://github.com/devblac/hackdrop_v0p) • [🐦 Follow on Twitter](https://twitter.com/hackpotalgorand) • [💬 Join Discord](https://discord.gg/hackpot)
 
 </div>
