@@ -237,10 +237,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Community
 
-- **Discord**: [Join our community](https://discord.gg/hackpot)
-- **Twitter**: [@HackPotAlgorand](https://twitter.com/hackpotalgorand)
-- **Email**: support@hackpot.dev
-- **Issues**: [GitHub Issues](https://github.com/yourusername/hackpot-algorand-dapp/issues)
+- **Email**: info@hackpot.xyz
+- **Issues**: [GitHub Issues](https://github.com/devblac/hackdrop_v0p/issues)
 
 ---
 
@@ -248,6 +246,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by the Julian as HackPot Team**
 
-[⭐ Star us on GitHub](https://github.com/devblac/hackdrop_v0p) • [🐦 Follow on Twitter](https://twitter.com/hackpotalgorand) • [💬 Join Discord](https://discord.gg/hackpot)
-
+• [⭐ Star us on GitHub](https://github.com/devblac/hackdrop_v0p) • 
 </div>
